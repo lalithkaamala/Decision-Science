@@ -7,3 +7,6 @@ scipy
 seaborn
 networkx
 Pillow
+shap
+statsmodels
+optuna
